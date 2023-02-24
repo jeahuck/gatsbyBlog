@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://test.com/sitemap-index.xml
-Host: https://test.com
+Sitemap: https://yang.github.io/sitemap-index.xml
+Host: https://yang.github.io
